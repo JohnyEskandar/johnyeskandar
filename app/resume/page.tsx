@@ -9,14 +9,14 @@ export default function Resume() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
           <a
-            href="/resume/Eskandar, Johny Resume.pdf"
+            href="/resume/eskandar-johny-resume.pdf"
             download
             className="inline-flex items-center px-8 py-4 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors"
           >
             Download PDF
           </a>
           <a
-            href="/resume/Eskandar, Johny Resume.pdf"
+            href="/resume/eskandar-johny-resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 border border-slate-600 hover:border-slate-500 text-slate-300 hover:text-slate-50 font-medium rounded-lg transition-colors"
