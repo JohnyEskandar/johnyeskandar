@@ -47,6 +47,7 @@ export default function Contact() {
         <div className="text-center mb-16 animate-slide-up">
           <h1 className="font-poppins font-bold text-4xl sm:text-5xl text-slate-50 mb-6">Get In Touch</h1>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
             I'm always interested in new opportunities and collaborations. Feel free to reach out if you'd like to work together.
           </p>
         </div>
@@ -119,6 +120,7 @@ export default function Contact() {
 
             <div className="space-y-6">
               <p className="text-slate-300 leading-relaxed">
+                {/* eslint-disable-next-line react/no-unescaped-entities */}
                 I'm active on various platforms and always open to connecting with fellow developers, potential
                 collaborators, and anyone interested in technology.
               </p>

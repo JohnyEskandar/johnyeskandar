@@ -31,9 +31,11 @@ export default function About() {
 
             <div className="text-slate-300 space-y-4 leading-relaxed">
               <p>
+                {/* eslint-disable-next-line react/no-unescaped-entities */}
                 I'm a software engineer and student passionate about building scalable, impactful solutions. I specialize in frontend development and working with data, with experience in tools like React, Next.js, and TypeScript.
               </p>
               <p>
+                {/* eslint-disable-next-line react/no-unescaped-entities */}
                 I'm currently interning at Mastercard, where I’m helping launch a chatbot for enterprise clients using insights from over 550 million transactions a day. I’ve also shipped real product strategy, dashboards, and automation tools across product and data roles.
               </p>
               <p>
@@ -62,6 +64,7 @@ export default function About() {
 
             <div className="text-slate-300 space-y-4 leading-relaxed">
                 <p>
+                  {/* eslint-disable-next-line react/no-unescaped-entities */}
                     Beyond coding, I'm passionate about creativity and self-expression. I enjoy exploring music, creating video content, and designing cool websites(just like this one). I also love playing basketball—it's my favorite way to disconnect, stay competitive, and reset mentally.
 
                 </p>
@@ -69,6 +72,7 @@ export default function About() {
                     I’m inspired by creators like Jared McCain who lead with personality and positivity. Capturing candid moments is my favorite part of vlogging—it’s how I connect with people and share energy, not just content.
                 </p>
                 <p>
+                  {/* eslint-disable-next-line react/no-unescaped-entities */}
                     I believe that diverse interests fuel better problem-solving and bring fresh perspectives to technical challenges. Whether it's discovering new music, editing videos, or playing ball, I'm always looking for ways to grow and learn.
                 </p>
                 

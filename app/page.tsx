@@ -10,13 +10,13 @@ export default function Home() {
           {/* Content */}
           <div className="space-y-8">
             <div className="space-y-4">
-              {/* eslint-disable-next-line react/no-unescaped-entities */}
               <h1 className="font-poppins font-bold text-5xl sm:text-6xl lg:text-7xl text-slate-50 leading-tight">
+                {/* eslint-disable-next-line react/no-unescaped-entities */}
                 Hi, I'm <span className="text-indigo-400">Johny Eskandar</span>
               </h1>
               <div className="space-y-2">
-                {/* eslint-disable-next-line react/no-unescaped-entities */}
                 <p className="text-xl sm:text-2xl text-slate-300 leading-relaxed max-w-2xl">
+                  {/* eslint-disable-next-line react/no-unescaped-entities */}
                   SWE Intern @ Mastercard • WashU '27 • Business + Computer Science
                 </p>
                 <p className="text-lg text-slate-400 leading-relaxed max-w-xl">
