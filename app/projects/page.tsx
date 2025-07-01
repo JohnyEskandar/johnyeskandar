@@ -145,7 +145,7 @@ const technicalProjects = [
     // },
 ]
 
-const consultingProjects = [
+// const consultingProjects = [
     // {
     //     title: "Startup Technical Advisory",
     //     description:
@@ -162,7 +162,7 @@ const consultingProjects = [
     //     image: "/placeholder.svg?height=300&width=400",
     //     slide: "/slides/dev-exp.pdf",
     // },
-]
+// ]
 
 type Project = {
     title: string
