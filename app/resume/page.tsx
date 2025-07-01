@@ -29,7 +29,7 @@ export default function Resume() {
         <div className="bg-slate-900 p-6 rounded-2xl shadow-xl">
           <div className="bg-white rounded-xl overflow-hidden">
             <iframe
-              src="/resume/Eskandar, Johny Resume.pdf#toolbar=0&navpanes=0&scrollbar=0"
+              src="/resume/eskandar-johny-resume.pdf#toolbar=0&navpanes=0&scrollbar=0"
               className="w-full h-[1066px] rounded-b-xl"
             />
           </div>

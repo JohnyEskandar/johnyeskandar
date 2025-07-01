@@ -7,7 +7,7 @@ const technicalProjects = [
         description:
             "A real-time sports analytics tool that identifies profitable bets and market inefficiencies using custom statistical models on live odds data. Built with Python and Streamlit, featuring algorithms for win probability and parlay outcome simulation.",
         tags: ["Python", "Streamlit", "The Odds API", "Pandas"],
-        image: "/projects/Court Vision.jpeg",
+        image: "/projects/court-vision.jpeg",
         github: "https://github.com/JohnyEskandar/court-vision",
     },
     {
@@ -15,7 +15,7 @@ const technicalProjects = [
         description:
             "A full-stack Spotify playlist generator that recommends tracks based on a seed song's genre and audio profile. Features OAuth login, real-time search, personalized recommendations, and direct playlist creation in users’ Spotify accounts.",
         tags: ["Next.js", "TypeScript", "Spotify API", "TailwindCSS"],
-        image: "/projects/Blendify.jpeg",
+        image: "/projects/blendify.jpeg",
         github: "https://github.com/JohnyEskandar/Blendify",
     },
     {
@@ -23,7 +23,7 @@ const technicalProjects = [
         description:
             "Built at Google DevFest WashU 2025, UnveilAI is a full-stack platform that helps developers understand unfamiliar codebases using Google Gemini and Bland AI. Finalist among 42 teams, the app lets users upload GitHub repos, receive line-by-line explanations, ask questions about specific files, and even get a phone call from an AI 'senior engineer' that walks them through their code.",
         tags: ["Next.js", "FastAPI", "Google Gemini", "Bland AI", "TypeScript"],
-        image: "/projects/Unveil AI.jpeg",
+        image: "/projects/unveil-ai.jpeg",
         github: "https://github.com/UnveilAI",
     },
     // {
