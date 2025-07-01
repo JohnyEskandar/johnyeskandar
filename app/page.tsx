@@ -71,7 +71,7 @@ export default function Home() {
               <div className="w-100 h-120 rounded-2xl overflow-hidden bg-gradient-to-br from-indigo-500 to-purple-600 p-1">
                 <div className="w-full h-full rounded-xl overflow-hidden">
                   <Image
-                    src="/johny.jpg?width=400&height=400"
+                    src="/johny.jpg"
                     alt="Johny Eskandar"
                     width={400}
                     height={400}
